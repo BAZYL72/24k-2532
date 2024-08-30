@@ -1,7 +1,7 @@
-Hello! My name is MUHAMMAD BAZYL SHEIKH, and here's a small introduction of me:
+My name is MUHAMMAD BAZYL SHEIKH, and here is a small introduction of me:
 
 - **Currently studying**: BS DATA SCIENCE
-- **Aspiring to be**: AI/ML ENGINEER
+- **Career Goals**: AI/ML ENGINEER
 - **Interests**:
   - Data Science
   - Learining more about new technology
